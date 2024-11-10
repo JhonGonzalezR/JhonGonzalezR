@@ -1,4 +1,4 @@
-Mechatronics Engineering college student who has advanced knowledge in programming (Python, Matlab, ROS2), AI using ML and Neural Networks (TensorFlow) 🧑🏽‍💻, embbeded systems⚡, instrumentation, good at using SolidWorks, interested in the development of mobile and manipulators robots. Skills creative problem solution based on the costumer/User analysis (Conceptual Desing, Lean Startup) 🦾🧑🏽‍🔧. Leadership skills 🙋🏽‍♂️, asertive communication 🗣, well work among groups and a good creativity sense 🤸🏽‍♂️.
+Mechatronics Engineer who has advanced knowledge in programming (Python, Matlab, ROS2), AI using ML and Neural Networks (TensorFlow) 🧑🏽‍💻, embbeded systems⚡, instrumentation, good at using SolidWorks, interested in the development of mobile and manipulators robots. Skills creative problem solution based on the costumer/User analysis (Conceptual Desing, Lean Startup) 🦾🧑🏽‍🔧. Leadership skills 🙋🏽‍♂️, asertive communication 🗣, well work among groups and a good creativity sense 🤸🏽‍♂️.
 
 English level: Advanced (B2 - C1).
 
